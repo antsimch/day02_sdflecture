@@ -5,6 +5,7 @@ public class Bicycle {
     private int speed;
 
     public Bicycle() {
+        
     }
     
     public Bicycle(int gear, int speed) {
